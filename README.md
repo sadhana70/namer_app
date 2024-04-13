@@ -2,6 +2,5 @@
 
 A new Flutter project.
 
-![1st Image](img1.png){:width="100px"}
-![2nd Image](img2.png){:width="100px"}
+<img src="img1.png" alt="Alt Text" width="300"> <img src="img2.png" alt="Alt Text" width="300">
 
